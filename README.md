@@ -1,1 +1,0 @@
-# Medical-Diagnosis-Assistant
